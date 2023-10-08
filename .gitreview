@@ -1,0 +1,4 @@
+[gerrit]
+host=review.openstack.com
+port=29418
+project=openstack-rocky/ovn-22.09.1.git
